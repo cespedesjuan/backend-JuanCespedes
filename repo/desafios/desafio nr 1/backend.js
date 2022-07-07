@@ -30,6 +30,4 @@ let user1 = new Usuario("Sebastian", "Peralta", [], [] )
 user1.getFullName()
 user1.addMascota('Tito')
 user1.countMascotas()
-user1.getBookNames(
-    nombre = 'El Aleph' ,
-    autor = 'Julio Cortazar')
+user1.getBookNames()
