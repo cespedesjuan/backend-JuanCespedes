@@ -1,0 +1,15 @@
+{
+  "name": "03-servidorexpress",
+  "version": "1.0.1",
+  "description": "Desafio nr 3 servidor express : Coderhouse",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Céspedes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.2"
+  }
+}
